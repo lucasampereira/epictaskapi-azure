@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "package:epictaskapi",
+    "appService.deploySubpath": "target\\epictaskapi-0.0.1-SNAPSHOT.war",
+    "appService.defaultWebAppToDeploy": "/subscriptions/261ed1cf-5774-478d-bf81-dbd04d7ae6c8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/epictaskapi"
+}
